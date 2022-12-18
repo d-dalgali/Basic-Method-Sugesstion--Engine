@@ -1,0 +1,14 @@
+Ara 18, 2022 9:19:22 ÖS SuggestionEngine main
+INFO: Info Log
+Ara 18, 2022 9:19:22 ÖS SuggestionEngine suggest
+INFO: Building the parse tree...
+Ara 18, 2022 9:19:40 ÖS SuggestionEngine suggest
+INFO: Built the parse tree...(took 18 seconds)
+Ara 18, 2022 9:19:40 ÖS SuggestionEngine suggest
+INFO: Collecting the public method names...
+Ara 18, 2022 9:19:40 ÖS SuggestionEngine suggest
+INFO: Collected the public method names...
+Ara 18, 2022 9:19:40 ÖS SuggestionEngine suggest
+INFO: [length, isEmpty, charAt, codePointAt, codePointBefore, codePointCount, offsetByCodePoints, getChars, getBytes, getBytes, getBytes, getBytes, equals, contentEquals, contentEquals, equalsIgnoreCase, compareTo, compare, compareToIgnoreCase, regionMatches, regionMatches, startsWith, startsWith, endsWith, hashCode, indexOf, indexOf, lastIndexOf, lastIndexOf, indexOf, indexOf, lastIndexOf, lastIndexOf, substring, substring, subSequence, concat, replace, matches, contains, replaceFirst, replaceAll, replace, split, split, toLowerCase, toLowerCase, toUpperCase, toUpperCase, trim, toString, toCharArray, format, format, valueOf, valueOf, valueOf, copyValueOf, copyValueOf, valueOf, valueOf, valueOf, valueOf, valueOf, valueOf, intern]
+Ara 18, 2022 9:19:40 ÖS SuggestionEngine suggest
+INFO: Finding the suggestions...
